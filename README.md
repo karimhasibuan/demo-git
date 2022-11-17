@@ -1,7 +1,6 @@
-# Demo git
+# Demo Git
 
-This is our git repo for SmartHome Project
-
-
+This is our Git repo for SmartHome project.
 
 Yap, here another text brow.
+
